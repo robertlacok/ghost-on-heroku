@@ -8,8 +8,11 @@ Ghost is a free, open, simple blogging platform. Visit the project's website at 
 [![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-heroku-6762a6)](https://heroku.com/deploy)
 
 ## Disclaimer
+This is a fork of:
+- https://github.com/SNathJr/ghost-on-heroku which in turn is a fork of:
+- https://github.com/cobyism/ghost-on-heroku
 
-This is a fork with some improvements from https://github.com/cobyism/ghost-on-heroku. I have forked and improved this repository as the original developer seemed to have abandoned his repo recently. In this repository I have upgraded ghost to ghost 3.X and added cloudinary as a free storage alternative to amazon's s3. If you are still interested with the ghost 1.0 version please visit the original repository.
+I have forked and improved this repository as the original developer seemed to have abandoned his repo recently. In this repository I have upgraded ghost to ghost 4.X. If you are still interested with the ghost 3.x (SNathJr) or 1.0 (cobyism) version please visit the respective repository.
 
 ## Ghost version 4.X
 
