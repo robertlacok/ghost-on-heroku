@@ -2,9 +2,9 @@
 
 Ghost is a free, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
 
-[![GitHub issues](https://img.shields.io/github/issues/SNathJr/ghost-on-heroku)](https://github.com/SNathJr/ghost-on-heroku/issues)
-[![GitHub forks](https://img.shields.io/github/forks/SNathJr/ghost-on-heroku)](https://github.com/SNathJr/ghost-on-heroku/network)
-[![GitHub stars](https://img.shields.io/github/stars/SNathJr/ghost-on-heroku)](https://github.com/SNathJr/ghost-on-heroku/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/intra-sh/ghost-on-heroku)](https://github.com/intra-sh/ghost-on-heroku/issues)
+[![GitHub forks](https://img.shields.io/github/forks/intra-sh/ghost-on-heroku)](https://github.com/intra-sh/ghost-on-heroku/network)
+[![GitHub stars](https://img.shields.io/github/stars/intra-sh/ghost-on-heroku)](https://github.com/intra-sh/ghost-on-heroku/stargazers)
 [![Deploy to Heroku](https://img.shields.io/badge/deploy%20to-heroku-6762a6)](https://heroku.com/deploy)
 
 ## Disclaimer
